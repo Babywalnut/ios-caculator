@@ -1,1 +1,1 @@
-# ios-caculator
+# ios-calculator
